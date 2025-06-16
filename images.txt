@@ -1,3 +1,1 @@
-node:20.18.1
-node:18.20.5
-node:23.3.0
+ros:melodic-robot-bionic
