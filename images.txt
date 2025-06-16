@@ -1,3 +1,2 @@
-ros:melodic-robot-bionic
-ros:noetic-desktop-full
+osrf/ros:noetic-desktop-full
 osrf/ros:melodic-desktop-full
